@@ -4,6 +4,8 @@ A photoreal, endlessly looping diorama: an aviator's study during a thunderstorm
 Real scanned-quality models (CC0 / CC BY glTF sample assets), real oil-painting reproductions, physically based materials, soft ray-marched light shafts,
 real glass and a window that shows the storm outside. No people, no low-poly stand-ins.
 
+<img src="beats-sheet.png" alt="Beats Sheet" width="800">
+
 * One 56-second loop that closes seamlessly (frame 0 is frame 56). Everything that moves is a pure function of the loop clock.
 * Six lightning flashes (6.2 s, 16.4 s, 16.95 s, 29.8 s, 46.3 s, 51.6 s) light the room through the window bars; at 23 s the lamps stutter out, the room
   lives on firelight until 41 s, then the power returns by 42.6 s.
